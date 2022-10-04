@@ -1,7 +1,11 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');
 
+<<<<<<< HEAD
 //ARRAY NORMAL xxx
+=======
+//ARRAY NORMAL (MODIFICADO)
+>>>>>>> 1c92c357316deff29d294a589b1eac6367f6e3db
 $array1 = [
 	"a",
 	"b",
