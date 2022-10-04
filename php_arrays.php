@@ -1,7 +1,7 @@
 <?php
 header('Content-Type: text/html; charset=UTF-8');
 
-//ARRAY NORMAL
+//ARRAY NORMAL xxx
 $array1 = [
 	"a",
 	"b",
